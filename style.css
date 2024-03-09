@@ -1,0 +1,101 @@
+.navbar{
+    color: antiquewhite;
+    background-color: black;
+    display:flex;
+    gap:80px;
+    padding:25px;
+    width: 90%;
+}
+#main-logo{
+    position: relative;
+    width: 90%;
+    margin-top:4% ;
+    margin-right: 4%;
+    height: 60%;
+    border-radius: 50px;
+    margin-left: 4%;
+}
+#text-block1{
+  position: absolute;
+  bottom: 80px;
+  left: 20px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#images1{
+    position: relative;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 5%;
+    display: flex;
+    zoom: 120%;
+    display: block;
+}
+#images2{
+    position: relative;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 5%;
+    display: flex;
+    display: block;
+}
+button{
+    text-align: center;
+}
+#container1{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    border-radius: 4%;
+}
+#images3{
+    text-align: center;
+    border: 2px solid;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    border-radius: 4%;
+}
+#main-body{
+    border-radius: 5%;
+}
+#container2{
+    position: relative;
+    width: 90%;
+    margin-top:4% ;
+    margin-right: 9%;
+    width: 70%;
+    text-align: center;
+    margin-left: 9%;
+    margin-right: 20%;
+}
+#text-block2{
+    position: absolute;
+    bottom: 80px;
+    left: 20px;
+    color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#side-icons{
+    display: flex;
+    gap: 50px;
+    float: inline-end;
+}
+#footer{
+    display: flex;
+    gap: 150px;
+    padding: 50px;
+    color: white;
+    background-color: black;
+}
+
+
